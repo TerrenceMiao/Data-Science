@@ -5,4 +5,5 @@ References
 ----------
 
 - Machine Learning course CS229 information, _http://cs229.stanford.edu/_
+- Course syllabus, _http://cs229.stanford.edu/syllabus.html_
 - Course material (including lecture notes and assignments), _http://see.stanford.edu/materials/aimlcs229/MachineLearningAllMaterials.zip_
