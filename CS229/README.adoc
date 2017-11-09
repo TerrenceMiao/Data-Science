@@ -4,4 +4,5 @@ Stanford CS229: Machine Learning
 References
 ----------
 
-- Course CS229, _http://cs229.stanford.edu/_
+- Machine Learning course CS229 information, _http://cs229.stanford.edu/_
+- Course material (including lecture nodes and assignments), _http://see.stanford.edu/materials/aimlcs229/MachineLearningAllMaterials.zip_
