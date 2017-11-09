@@ -1,0 +1,7 @@
+Stanford CS229: Machine Learning
+================================
+
+References
+----------
+
+- Course CS229, _http://cs229.stanford.edu/_
