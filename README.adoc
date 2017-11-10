@@ -1,4 +1,22 @@
 About Data
 ==========
 
-Data has gravity. Data are the un-breachable moats to protect the business castles.
+Data has gravity. 
+
+Data are the un-breachable moats to protect the business castles.
+
+Big, Bigger
+-----------
+
+image::Big{sp}Large{sp}Number.png[Terabytes, Gigabytes, Petabytes: How Big are They?]
+
+
+Time Complexities
+-----------------
+image::Time{sp}Complexities.png[Time Complexities]
+
+
+References
+----------
+
+- Time Complexities, _https://en.wikipedia.org/wiki/Time_complexity_
