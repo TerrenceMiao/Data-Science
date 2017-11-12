@@ -1,0 +1,9 @@
+Stanford CS231n: Machine Learning
+================================
+
+References
+----------
+
+- Convolutional Neural Networks for Visual Recognition course CS231n information, _http://cs231n.stanford.edu/_
+- Course notes on CS231n, _http://cs231n.github.io/_
+- ConvNetJS Deep Learning in your browser, _http://cs.stanford.edu/people/karpathy/convnetjs/_
