@@ -6,4 +6,5 @@ References
 
 - Convolutional Neural Networks for Visual Recognition course CS231n information, _http://cs231n.stanford.edu/_
 - Course notes on CS231n, _http://cs231n.github.io/_
+- CS231n Winter 2016 lecture on YouTube, _https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC_
 - ConvNetJS Deep Learning in your browser, _http://cs.stanford.edu/people/karpathy/convnetjs/_
