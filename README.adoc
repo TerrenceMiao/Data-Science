@@ -1,7 +1,7 @@
 About Data
 ==========
 
-Data has gravity. 
+Data has gravity.
 
 Data is the un-breachable moat to protect the business castles.
 
@@ -14,6 +14,12 @@ image::Big{sp}Large{sp}Number.png[Terabytes, Gigabytes, Petabytes: How Big are T
 Time Complexities
 -----------------
 image::Time{sp}Complexities.png[Time Complexities]
+
+
+Convolutional Neural Network Nomenclature
+-----------------------------------------
+
+image::Convolutional{sp}Neural{sp}Network{sp}Nomenclature.png[Convolutional Neural Network Nomenclature]
 
 
 References
