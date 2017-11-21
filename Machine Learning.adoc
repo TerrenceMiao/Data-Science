@@ -11,3 +11,5 @@ https://embed.coggle.it/diagram/WgPeVuojMQABBOPO/11d7da18b45141ae81724d8cb446b4f
 
 References
 ----------
+
+- Feed Forward and Backward Run in Deep Convolution Neural Network, _https://arxiv.org/pdf/1711.03278.pdf_
