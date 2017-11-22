@@ -9,6 +9,12 @@ image::https://coggle-downloads.s3.amazonaws.com/6bd7facd49ce94f698f440a3d26d289
 https://embed.coggle.it/diagram/WgPeVuojMQABBOPO/11d7da18b45141ae81724d8cb446b4f4f297b65b84105921cfc8784a13d9951f[Coggle Link]
 
 
+Convolutional Neural Network Nomenclature
+-----------------------------------------
+
+image::Convolutional{sp}Neural{sp}Network{sp}Nomenclature.png[Convolutional Neural Network Nomenclature]
+
+
 References
 ----------
 

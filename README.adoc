@@ -16,12 +16,6 @@ Time Complexities
 image::Time{sp}Complexities.png[Time Complexities]
 
 
-Convolutional Neural Network Nomenclature
------------------------------------------
-
-image::Convolutional{sp}Neural{sp}Network{sp}Nomenclature.png[Convolutional Neural Network Nomenclature]
-
-
 References
 ----------
 
