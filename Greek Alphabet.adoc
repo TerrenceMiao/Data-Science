@@ -1,6 +1,8 @@
 Greek Alphabet
 ==============
 
+image::Greek{sp}Letters.gif[Greek Alphabet / Letters]
+
 Uppercase and lowercase Greek letters
 -------------------------------------
 
