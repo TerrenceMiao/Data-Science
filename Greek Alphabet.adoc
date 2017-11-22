@@ -9,11 +9,41 @@ Uppercase and lowercase Greek letters
 | Α α    | alpha
 | Β β    | beta
 | Γ γ    | gamma
+| Δ δ    | delta
+| Ε ϵ    | epsilon
+| Ζ ζ    | zeta
+| Η η    | eta
+| Θ θ    | theta
+| Ι ι    | iota
+| Κ κ    | kappa
+| Λ λ    | lambda
+| Μ μ    | mu
+| Ν ν    | nu
+| Ξ ξ    | xi
+| Ο ο    | omicron
+| Π π    | pi
+| Ρ ρ    | rho
+| Σ σ    | sigma
+| Τ τ    | tau
+| Υ υ    | upsilon
+| Φ ϕ    | phi
+| Χ χ    | chi
+| Ψ ψ    | psi
+| Ω ω    | omega
 |===
 
-  Δ    Ε    Ζ    Η    Θ    Ι    Κ    Λ    Μ    Ν    Ξ    Ο    Π    Ρ    Σ    Τ    Υ    Φ    Χ    Ψ    Ω
-  δ    ϵ    ζ    η    θ    ι    κ    λ    μ    ν    ξ    ο    π    ρ    σ    τ    υ    ϕ    χ    ψ    ω
 
-ε    ϑ    ϰ    ϖ    ϱ    ς    φ    ϒ    ...
+Variant Forms
+-------------
 
-ε \[CurlyEpsilon]    ϑ \[CurlyTheta]    ϰ \[CurlyKappa]    ϖ \[CurlyPi]    ϱ \[CurlyRho]    ς \[FinalSigma]    φ \[CurlyPhi]    ϒ \[CurlyCapitalUpsilon]
+|===
+| Letter | Name
+| ε      | epsilon
+| ϑ      | theta
+| ϰ      | kappa
+| ϖ      | pi
+| ϱ      | rho
+| ς      | sigma
+| φ      | phi
+| ϒ      | upsilon
+|===
