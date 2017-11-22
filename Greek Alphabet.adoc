@@ -47,3 +47,10 @@ Variant Forms
 | φ      | phi
 | ϒ      | upsilon
 |===
+
+
+References
+----------
+
+- Greek Letters, _http://reference.wolfram.com/language/guide/GreekLetters.html_
+- Greek alphabet, _https://en.wikipedia.org/wiki/Greek_alphabet_
