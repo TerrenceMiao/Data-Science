@@ -1,0 +1,23 @@
+Big Data
+========
+
+MapReduce
+---------
+
+Shuffling, sorting, partitioning in MapReduce.
+
+image::Shuffling{sp}and{sp}sorting{sp}in{sp}MapReduce.jpg
+
+*The Map Side*
+
+When the map function starts producing output, it is not simply written to disk. Before Map output writes to disk, the thread first divides the data into partitions corresponding to the reducers that they will ultimately be sent to. Within each partition, the background thread performs an in-memory sort by key.
+
+*The Reduce Side*
+
+When all the map outputs have been copied, the reduce task moves into the sort phase (which should properly be called the merge phase, as the sorting was carried out on the map side), which merges the map outputs, maintaining their sort ordering. This will be done in rounds.
+
+
+References
+----------
+
+- O'Reilly Hadoop The Definitive Guide, _http://shop.oreilly.com/product/0636920033448.do_
