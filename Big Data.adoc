@@ -6,7 +6,7 @@ MapReduce
 
 Shuffling, sorting, partitioning in MapReduce.
 
-image::Shuffling{sp}and{sp}sorting{sp}in{sp}MapReduce.jpg
+image::Shuffling{sp}and{sp}sorting{sp}in{sp}MapReduce.jpg[Shuffling, sorting, partitioning in MapReduce]
 
 *The Map Side*
 
