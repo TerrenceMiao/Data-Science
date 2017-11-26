@@ -15,7 +15,15 @@ Convolutional Neural Network Nomenclature
 image::Convolutional{sp}Neural{sp}Network{sp}Nomenclature.png[Convolutional Neural Network Nomenclature]
 
 
+Capsule vs. Neuron
+------------------
+
+image::Capsule{sp}vs{sp}Neuron.png[Capsule in CapsNet vs. Traditional Neoron like in CNN]
+
+
 References
 ----------
 
 - Feed Forward and Backward Run in Deep Convolution Neural Network, _https://arxiv.org/pdf/1711.03278.pdf_
+- Dynamic Routing Between Capsules, _https://arxiv.org/pdf/1710.09829v2.pdf_
+- 如何看待 Geoffrey Hinton 的论文 Dynamic Routing Between Capsules, _https://www.zhihu.com/question/67287444/answer/251460831_
