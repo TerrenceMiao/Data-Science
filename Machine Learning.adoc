@@ -18,9 +18,9 @@ image::Convolutional{sp}Neural{sp}Network{sp}Nomenclature.png[Convolutional Neur
 Summary of Notation
 -------------------
 
-image::Summary{sp}of{sp}Notation.png[Summary of Notation]
-
 image::Notation.png[Notation]
+
+image::Summary{sp}of{sp}Notation.png[Summary of Notation]
 
 
 References
