@@ -15,22 +15,29 @@ Convolutional Neural Network Nomenclature
 image::Convolutional{sp}Neural{sp}Network{sp}Nomenclature.png[Convolutional Neural Network Nomenclature]
 
 
-Summary of Notation
--------------------
+Summary of Notation in Machine Learning
+---------------------------------------
 
 image::Notation.png[Notation]
 
 image::Summary{sp}of{sp}Notation.png[Summary of Notation]
 
 
+Notation in Deep Learning
+-------------------------
+
+image::Deep{sp}Learning{sp}Notation.png[Deep Learning Notation]
+
+
 References
 ----------
 
 - Neural Networks Tutorial – A Pathway to Deep Learning, _http://adventuresinmachinelearning.com/neural-networks-tutorial/_
-- Feed Forward and Backward Run in Deep Convolution Neural Network, _https://arxiv.org/pdf/1711.03278.pdf_
 - Jose R. Gorchs's Machine Learning MindMap, _http://image.ibb.co/jYaViR/Jose_Gorchs_Machine_Learning_A_Z.png_
 
 - Dynamic Routing Between Capsules, _https://arxiv.org/pdf/1710.09829v2.pdf_
 - 如何看待 Geoffrey Hinton 的论文 Dynamic Routing Between Capsules, _https://www.zhihu.com/question/67287444/answer/251460831_
 
+- Feed Forward and Backward Run in Deep Convolution Neural Network, _https://arxiv.org/pdf/1711.03278.pdf_
 - Understanding Machine Learning: From Theory to Algorithms, _https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132_
+- Deep Learning (Adaptive Computation and Machine Learning series) , _https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/_
