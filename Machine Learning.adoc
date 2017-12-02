@@ -32,3 +32,5 @@ References
 
 - Dynamic Routing Between Capsules, _https://arxiv.org/pdf/1710.09829v2.pdf_
 - 如何看待 Geoffrey Hinton 的论文 Dynamic Routing Between Capsules, _https://www.zhihu.com/question/67287444/answer/251460831_
+
+- Understanding Machine Learning: From Theory to Algorithms, _https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132_
