@@ -15,10 +15,12 @@ Convolutional Neural Network Nomenclature
 image::Convolutional{sp}Neural{sp}Network{sp}Nomenclature.png[Convolutional Neural Network Nomenclature]
 
 
-Capsule vs. Neuron
-------------------
+Summary of Notation
+-------------------
 
-image::Capsule{sp}vs{sp}Neuron.png[Capsule in CapsNet vs. Traditional Neuron like in CNN]
+image::Summary{sp}of{sp}Notation.png[Summary of Notation]
+
+image::Notation.png[Notation]
 
 
 References
