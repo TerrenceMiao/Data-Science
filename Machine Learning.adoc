@@ -4,7 +4,7 @@ Machine Learning
 Mind Map
 --------
 
-image::https://coggle-downloads.s3.amazonaws.com/04683e2b1b96fc640721a9d46123db68e34cbc4ae2375e85497bbfa8bdf65d5a/Machine_Learning.png[Machine Learning, 930, 590]
+image::https://coggle-downloads.s3.amazonaws.com/4318844e578902bddcff3321b86ac2ee05f8215c2c4b74741ebc93fffa5db2e4/Machine_Learning.png[Machine Learning, 930, 590]
 
 https://embed.coggle.it/diagram/WgPeVuojMQABBOPO/11d7da18b45141ae81724d8cb446b4f4f297b65b84105921cfc8784a13d9951f[Coggle Link]
 
