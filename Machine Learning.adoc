@@ -23,8 +23,8 @@ image::Notation.png[Notation]
 image::Summary{sp}of{sp}Notation.png[Summary of Notation]
 
 
-Notation in Deep Learning
--------------------------
+Deep Learning Notation
+----------------------
 
 image::Deep{sp}Learning{sp}Notation.png[Deep Learning Notation]
 
