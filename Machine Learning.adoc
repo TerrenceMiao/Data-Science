@@ -6,7 +6,7 @@ Machine Learning
 Mind Map
 --------
 
-image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/4318844e578902bddcff3321b86ac2ee05f8215c2c4b74741ebc93fffa5db2e4/Machine_Learning.png?AWSAccessKeyId=ASIAJ7NNJ2FDTTUTM4OA&Expires=1512834955&Signature=pPRlpxTnFPQcOB49JNtILakuZJY%3D&x-amz-security-token=FQoDYXdzELv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDOSExzkxIuRTwIOuHiLxAQq5QzQTP69caDPSimlnuiLTFvpTu2%2FahUtgePjm6Ba7dt9eAYNfdvaLiiBg7NDcolMN3T8hhJB1KQ9%2FPFRu7JHsayf98dq6BnWnr9vNuT7UmkdpCRB2a7kp90JU3EOT7IY9SYS7pg52zBOk9kl0%2FvakCEyGUJzaqmjQ24DtLZ3nraOyVJrD38BVXvRe38aYBX1PSrU29HLmsUgGvhCqJpHU1LVDQWW2xK0LD3nNazqaXUCfIg4JYVBdeLk1AjGQB%2FQ8jxSqxewSeuD%2BgaEMq%2BYysUWQ7YAR20m0XuBTU4p6B9odHtONAv8yYBPqQfEXY5Uo%2Btiu0QU%3D[Machine Learning Mind Map, 930, 590]
+image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/43bbace1ec706e959f6e1f50fe5ff4189ee35105b25cde967bbfa903d28bad6a/Machine_Learning.png?AWSAccessKeyId=ASIAIPGIEHENCQSAOJFQ&Expires=1512846158&Signature=pIo8WjEGg11dce%2BEOCmMimaSeu4%3D&x-amz-security-token=FQoDYXdzEL3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDNi7KS8oSz8X%2BbW%2F4iLxASaSyQYAagJliSL47ve97NfA3FIWofBw94aYVRt2IWtiYFAYFtLJC018f19PX26FvBw7%2B2ZgjeB2ECLt6OCF6vE1dFU77mcRX9r32dY4UFfQRYeeXEC3xihjxyrxYE35wQ4Yi%2F%2BHWPJaf56v749%2FAOfol2%2FDo3dh0DMWkS6FbhQBfomygEfeqH19ENc2PRRKK5VLOuukspZmIVitcoNnVKtB0PudN5AFYwW2qKodGS0ElzmIdlXc%2BfwglePPpadbnBKtqC6RYPPa7NuJfAoZ%2FNAnMaSkHf3dOkX%2FrorOb7SJJ%2B%2Boj37WRsbd8aqAZpRQx4kompGv0QU%3D[Machine Learning Mind Map, 930, 590]
 
 https://embed.coggle.it/diagram/WgPeVuojMQABBOPO/11d7da18b45141ae81724d8cb446b4f4f297b65b84105921cfc8784a13d9951f[Coggle Link]
 
