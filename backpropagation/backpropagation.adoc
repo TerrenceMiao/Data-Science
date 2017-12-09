@@ -19,6 +19,19 @@ image::img03.gif[img03]
 
 image::img04.gif[img04]
 
+Propagation of signals through the hidden layer. Symbols _w~mn~_ represent weights of connections between output of neuron _m_ and input of neuron _n_ in the next layer.
+
+image::img05.gif[img05]
+
+image::img06.gif[img06]
+
+Propagation of signals through the output layer.
+
+image::img07.gif[img07]
+
+In the next algorithm step the output signal of the network y is compared with the desired output value (the target), which is found in training data set. The difference is called error signal d of output layer neuron.
+
+image::img08.gif[img08]
 
 
 References
@@ -26,6 +39,7 @@ References
 
 - Principles of training multi-layer neural network using backpropagation, _http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html_
 - Neural Networks Tutorial - A Pathway to Deep Learning, _http://adventuresinmachinelearning.com/neural-networks-tutorial/_
+- CS231n Winter 2016 Lecture 4 Backpropagation Neural Networks, _https://www.youtube.com/watch?v=59Hbtz7XgjM_
 
 
 Sandbox
