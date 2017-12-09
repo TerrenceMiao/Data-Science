@@ -29,15 +29,52 @@ Propagation of signals through the output layer.
 
 image::img07.gif[img07]
 
-In the next algorithm step the output signal of the network y is compared with the desired output value (the target), which is found in training data set. The difference is called error signal d of output layer neuron.
+In the next algorithm step the output signal of the network _y_ is compared with the desired output value (the target), which is found in training data set. The difference is called error signal _d_ of output layer neuron.
 
 image::img08.gif[img08]
+
+It is impossible to compute error signal for internal neurons directly, because output values of these neurons are unknown. For many years the effective method for training multiplayer networks has been unknown. Only in the middle eighties the backpropagation algorithm has been worked out. The idea is to propagate error signal _d_ (computed in single teaching step) back to all neurons, which output signals were input for discussed neuron.
+
+image::img09.gif[img09]
+
+image::img10.gif[img10]
+
+The weights' coefficients _w~mn~_ used to propagate errors back are equal to this used during computing output value. Only the direction of data flow is changed (signals are propagated from output to inputs one after the other). This technique is used for all network layers. If propagated errors came from few neurons they are added. The illustration is below:
+
+image::img11.gif[img11]
+
+image::img12.gif[img12]
+
+image::img13.gif[img13]
+
+When the error signal for each neuron is computed, **the weights coefficients of each neuron input node may be modified.** In formulas below _df(e)/de_ represents derivative of neuron activation function (which weights are modified).
+
+image::img14.gif[img14]
+
+image::img15.gif[img15]
+
+image::img16.gif[img16]
+
+image::img17.gif[img17]
+
+image::img18.gif[img18]
+
+image::img19.gif[img19]
+
+Coefficient _h_ affects network teaching speed. There are a few techniques to select this parameter.
+
+The first method is to start teaching process with large value of the parameter. While weights coefficients are being established the parameter is being decreased gradually. 
+
+The second method, more complicated, starts teaching with small parameter value. During the teaching process the parameter value is being increased when the teaching is advanced and then decreased again in the final stage. Starting teaching process with low parameter value enables to determine weights coefficients signs.
+
+Start forward wise requires multiply large matrices for each layer until multiply a large matrix by a vector in the output layer. However, if start backwards, that is, start multiplying a matrix by a vector, get another vector and so forth. **The beauty in backpropagation is that doing more efficient matrix-vector multiplications instead of matrix-matrix multiplications.**
 
 
 References
 ----------
 
 - Principles of training multi-layer neural network using backpropagation, _http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html_
+- What is the best visual explanation for the back propagation algorithm for neural networks?, _https://www.quora.com/What-is-the-best-visual-explanation-for-the-back-propagation-algorithm-for-neural-networks_
 - Neural Networks Tutorial - A Pathway to Deep Learning, _http://adventuresinmachinelearning.com/neural-networks-tutorial/_
 - CS231n Winter 2016 Lecture 4 Backpropagation Neural Networks, _https://www.youtube.com/watch?v=59Hbtz7XgjM_
 
