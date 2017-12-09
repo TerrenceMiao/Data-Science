@@ -1,6 +1,8 @@
 Principles of backpropagation
 =============================
 
+**e^&#960;i^ + 1 = 0**
+
 To illustrate this process of multi-layer neural network employing backpropagation algorithm.
 
 image::img01.gif[img01]
@@ -63,7 +65,7 @@ image::img19.gif[img19]
 
 Coefficient _h_ affects network teaching speed. There are a few techniques to select this parameter.
 
-The first method is to start teaching process with large value of the parameter. While weights coefficients are being established the parameter is being decreased gradually. 
+The first method is to start teaching process with large value of the parameter. While weights coefficients are being established the parameter is being decreased gradually.
 
 The second method, more complicated, starts teaching with small parameter value. During the teaching process the parameter value is being increased when the teaching is advanced and then decreased again in the final stage. Starting teaching process with low parameter value enables to determine weights coefficients signs.
 
@@ -77,9 +79,3 @@ References
 - What is the best visual explanation for the back propagation algorithm for neural networks?, _https://www.quora.com/What-is-the-best-visual-explanation-for-the-back-propagation-algorithm-for-neural-networks_
 - Neural Networks Tutorial - A Pathway to Deep Learning, _http://adventuresinmachinelearning.com/neural-networks-tutorial/_
 - CS231n Winter 2016 Lecture 4 Backpropagation Neural Networks, _https://www.youtube.com/watch?v=59Hbtz7XgjM_
-
-
-Sandbox
--------
-
-e^&#960;i^ + 1 = 0, H~2~O and x^10^. Some^super-text^ and some~sub-text~.
