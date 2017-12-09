@@ -8,6 +8,10 @@ Mind Map
 
 image::https://coggle-downloads.s3.amazonaws.com/4318844e578902bddcff3321b86ac2ee05f8215c2c4b74741ebc93fffa5db2e4/Machine_Learning.png[Machine Learning Mind Map, 930, 590]
 
+++++
+<iframe width='853' height='480' src='https://embed.coggle.it/diagram/WgPeVuojMQABBOPO/11d7da18b45141ae81724d8cb446b4f4f297b65b84105921cfc8784a13d9951f' frameborder='0' allowfullscreen></iframe>
+++++
+
 https://embed.coggle.it/diagram/WgPeVuojMQABBOPO/11d7da18b45141ae81724d8cb446b4f4f297b65b84105921cfc8784a13d9951f[Coggle Link]
 
 
