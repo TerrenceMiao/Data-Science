@@ -3,8 +3,8 @@ Principles of backpropagation
 
 To illustrate this process of multi-layer neural network employing backpropagation algorithm.
 
+e^&#960;i^ + 1 = 0, H~2~O and x^10^. Some^super text^ and~some sub text~.
 
-e^&#960;i^+1 = 0. H~2~O and x^10^. Some ^super text^ and ~some sub text~
 
 References
 ----------
