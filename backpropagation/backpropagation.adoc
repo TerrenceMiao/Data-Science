@@ -5,6 +5,10 @@ To illustrate this process of multi-layer neural network employing backpropagati
 
 image::img01.gif[img01]
 
+Each neuron is composed of two units. First unit adds products of weights coefficients and input signals. The second unit realises nonlinear function, called neuron activation function. Signal _e_ is adder output signal, and _y = f(e_ is output signal of nonlinear element. Signal _y_ is also output signal of neuron.
+
+image::img01b.gif[img01b]
+
 
 References
 ----------
