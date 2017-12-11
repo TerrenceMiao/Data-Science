@@ -42,7 +42,7 @@ _A_ and _B_ are events and _P(B)_ ≠ 0.
 - _P(B|A)_ is also a conditional probability: the likelihood of event _B_ occurring given that _A_ is true.
 - _P(A)_ and _P(B)_ are the probabilities of observing _A_ and _B_ independently of each other; this is known as the marginal probability.
 
-image::https://qph.ec.quoracdn.net/main-qimg-003a7aaa0935215238a082f0412fb564[Bayes' Theorem, scaledwidth="50%"]
+image::https://qph.ec.quoracdn.net/main-qimg-003a7aaa0935215238a082f0412fb564[Bayes' Theorem, 301, 85]
 
 - **Likelihood** _P(B|A)_ - How probable is the evidence given that our hypothesis is true?
 - ** Prior** _P(A)_ - How probable was our hypothesis before observing the evidence?
