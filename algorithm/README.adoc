@@ -4,9 +4,10 @@ Algorithms
 Mind Map
 --------
 
-image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/56af4d87ffed39e059945179e3072dd89a1996ec4b17c95097a096d1d5a1fdcf/Algorithms.png?AWSAccessKeyId=ASIAIT77GVF37MXP5SZQ&Expires=1513013641&Signature=XXAEWA13GvAsKjpuYERi%2B6p9uVo%3D&x-amz-security-token=FQoDYXdzEOv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDByXU5ji%2Fqu%2FLPy%2FECLxAcbBiAmwL8b3G0DOZWETiWeQPrYovClV1YmlYxIXZ1Wn3ETfJHwgI6BjhQYgEWBAmh5g3eaYIZ9o4sIB2Ovxk%2FIYodf%2BRJN75EK0Wt67ljkfc%2F9jXFmASv%2FzSZ47cw4zH%2BrkUbl9%2F6VdgujgTfIbaDTowCsTOwkKXY%2Bugv8wwfLGfq3N29Q49OY2p968CNFcrMUWMstT9oVY46UAme22l9cy1TdRCSutrw0lve0ds40O%2B1jHX3d1W39q5ZNKTk%2BdY2MeW3h1GaXzfxD6XTEUEhELrQwprrQoicy6EMxzl3j%2BJLciJzcsFyFJqO4KSYX8bBwo9J%2B50QU%3D[Algorithms]
+image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/fd9cd4d4c6077cef6b7b9c8372b125dc99a450c31290b4ad454dff3efbc2a43d/Algorithms.png?AWSAccessKeyId=ASIAIFYZ6FGYVRRFFWUQ&Expires=1513014716&Signature=ozaSoZcSpojMz8%2BpGA43tAiAyUc%3D&x-amz-security-token=FQoDYXdzEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDPnK3OXEn3ysIX3KqCLxASHzewKH4tB0tPz0sdXX5MqW1abM7oFAOS6GgvLxb3EkVnyMYx%2FFBOLZji4sDukzdtvNyrs6BHfikhvyu7r5GVEOwAsNFPa7Pox8UXUmYg9OXFa%2Bn%2FIBbVB3Op8NhTSHkQmp2uLlzt2gqzjxdbGnMKpyB7KVGQktnZB3DPNXl9tb3GHIyT8vtX%2F7Knq4eXAbm%2BinEU2zytxzhklTfF8Wokq1mmNFO5uVtqYPMzN%2BEOD%2F%2Bv%2BTMhUCzcu06mz7QdWukFL%2BgfLX%2FxkWjal909xAGhcsaTeZ0Yna%2B%2Ft0M077VpaW9wfZvzEbWfdbh85s6AEzIeIoldi50QU%3D[Algorithms]
 
 https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057b95e497375193ce8c8088a56a70[Coggle Link]
+
 
 Fourier Transform
 -----------------
@@ -14,6 +15,16 @@ Fourier Transform
 image::Fourier{sp}Transform.jpg[Fourier Transform]
 
 - 如果看了此文你还不懂傅里叶变换那就过来掐死我吧 from 伯乐在线, _http://blog.jobbole.com/70549/_
+
+
+Monte Carlo method
+------------------
+
+把所有复杂问题都转化为基于随机数和各种分布的简单算术问题，这就是蒙特卡洛算法的精髓。
+
+image::Monte{sp}Carlo{sp}Method.jpg[Monte Carlo Method]
+
+- 人工智能绝不会统治人类, _http://blog.sina.com.cn/s/blog_6c7e111d0102wckj.html_
 
 
 References
