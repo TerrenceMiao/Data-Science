@@ -4,9 +4,15 @@ Algorithms
 Mind Map
 --------
 
-image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/fd9cd4d4c6077cef6b7b9c8372b125dc99a450c31290b4ad454dff3efbc2a43d/Algorithms.png?AWSAccessKeyId=ASIAIFYZ6FGYVRRFFWUQ&Expires=1513014716&Signature=ozaSoZcSpojMz8%2BpGA43tAiAyUc%3D&x-amz-security-token=FQoDYXdzEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDPnK3OXEn3ysIX3KqCLxASHzewKH4tB0tPz0sdXX5MqW1abM7oFAOS6GgvLxb3EkVnyMYx%2FFBOLZji4sDukzdtvNyrs6BHfikhvyu7r5GVEOwAsNFPa7Pox8UXUmYg9OXFa%2Bn%2FIBbVB3Op8NhTSHkQmp2uLlzt2gqzjxdbGnMKpyB7KVGQktnZB3DPNXl9tb3GHIyT8vtX%2F7Knq4eXAbm%2BinEU2zytxzhklTfF8Wokq1mmNFO5uVtqYPMzN%2BEOD%2F%2Bv%2BTMhUCzcu06mz7QdWukFL%2BgfLX%2FxkWjal909xAGhcsaTeZ0Yna%2B%2Ft0M077VpaW9wfZvzEbWfdbh85s6AEzIeIoldi50QU%3D[Algorithms]
+image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/e2f78b77b5d328299e3aa469d5043724b15bab41b9aac4d6bf5cd3792f1c5307/Algorithms.png?AWSAccessKeyId=ASIAIFYZ6FGYVRRFFWUQ&Expires=1513017433&Signature=%2Fwcv9WVldgmD5oNSAEepehwRs%2Fw%3D&x-amz-security-token=FQoDYXdzEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDPnK3OXEn3ysIX3KqCLxASHzewKH4tB0tPz0sdXX5MqW1abM7oFAOS6GgvLxb3EkVnyMYx%2FFBOLZji4sDukzdtvNyrs6BHfikhvyu7r5GVEOwAsNFPa7Pox8UXUmYg9OXFa%2Bn%2FIBbVB3Op8NhTSHkQmp2uLlzt2gqzjxdbGnMKpyB7KVGQktnZB3DPNXl9tb3GHIyT8vtX%2F7Knq4eXAbm%2BinEU2zytxzhklTfF8Wokq1mmNFO5uVtqYPMzN%2BEOD%2F%2Bv%2BTMhUCzcu06mz7QdWukFL%2BgfLX%2FxkWjal909xAGhcsaTeZ0Yna%2B%2Ft0M077VpaW9wfZvzEbWfdbh85s6AEzIeIoldi50QU%3D[Algorithms]
 
 https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057b95e497375193ce8c8088a56a70[Coggle Link]
+
+
+Occam's Razor / Ockham's Razor
+------------------------------
+
+**Entities should not be multiplied unnecessarily**, bias for the simplest hypothesis.
 
 
 Fourier Transform
