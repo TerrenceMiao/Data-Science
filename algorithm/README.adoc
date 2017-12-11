@@ -27,5 +27,17 @@ image::Monte{sp}Carlo{sp}Method.jpg[Monte Carlo Method]
 - 人工智能绝不会统治人类, _http://blog.sina.com.cn/s/blog_6c7e111d0102wckj.html_
 
 
+Bayes' Theorem
+--------------
+
+image::Bayes'{sp}Theorem.svg[Bayes' Theorem]
+
+- 数学之美番外篇：平凡而又神奇的贝叶斯方法, _http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/_
+
+
 References
 ----------
+
+- 可视化蒙特卡洛算法, _http://runjs.cn/detail/rrnvnqyt_
+
+- Naughty's blog, _https://my.oschina.net/taogang_
