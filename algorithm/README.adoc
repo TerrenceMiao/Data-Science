@@ -47,7 +47,7 @@ image::https://qph.ec.quoracdn.net/main-qimg-003a7aaa0935215238a082f0412fb564[Ba
 - **Likelihood** _P(B|A)_ - How probable is the evidence given that our hypothesis is true?
 - **Prior** _P(A)_ - How probable was our hypothesis before observing the evidence?
 - **Marginal** _P(B)_ - How probable is the new evidence under all possible hypothesis? _P(B) = Σ~i~ P(B|A~i~) P(A~i~)_
-- **Posterior** [green]#_P(A|B)_# - How probable is our hypothesis given the observed evidence? (Not directly computable)
+- **Posterior** _P(A|B)_ - How probable is our hypothesis given the observed evidence? (Not directly computable)
 
 image::Bayes'{sp}Theorem.svg[Bayes' Theorem]
 
