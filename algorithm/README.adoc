@@ -1,0 +1,20 @@
+Algorithms
+==========
+
+Mind Map
+--------
+
+image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/56af4d87ffed39e059945179e3072dd89a1996ec4b17c95097a096d1d5a1fdcf/Algorithms.png?AWSAccessKeyId=ASIAIT77GVF37MXP5SZQ&Expires=1513013641&Signature=XXAEWA13GvAsKjpuYERi%2B6p9uVo%3D&x-amz-security-token=FQoDYXdzEOv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDByXU5ji%2Fqu%2FLPy%2FECLxAcbBiAmwL8b3G0DOZWETiWeQPrYovClV1YmlYxIXZ1Wn3ETfJHwgI6BjhQYgEWBAmh5g3eaYIZ9o4sIB2Ovxk%2FIYodf%2BRJN75EK0Wt67ljkfc%2F9jXFmASv%2FzSZ47cw4zH%2BrkUbl9%2F6VdgujgTfIbaDTowCsTOwkKXY%2Bugv8wwfLGfq3N29Q49OY2p968CNFcrMUWMstT9oVY46UAme22l9cy1TdRCSutrw0lve0ds40O%2B1jHX3d1W39q5ZNKTk%2BdY2MeW3h1GaXzfxD6XTEUEhELrQwprrQoicy6EMxzl3j%2BJLciJzcsFyFJqO4KSYX8bBwo9J%2B50QU%3D[Algorithms]
+
+https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057b95e497375193ce8c8088a56a70[Coggle Link]
+
+Fourier Transform
+-----------------
+
+image::Fourier{sp}Transform.gif[Fourier Transform]
+
+- 如果看了此文你还不懂傅里叶变换那就过来掐死我吧 from 伯乐在线, _http://blog.jobbole.com/70549/_
+
+
+References
+----------
