@@ -36,6 +36,19 @@ image::Monte{sp}Carlo{sp}Method.jpg[Monte Carlo Method]
 Bayes' Theorem
 --------------
 
+_A_ and _B_ are events and _P(B)_ ≠ 0.
+
+- _P(A|B)_ is a conditional probability: the likelihood of event _A_ occurring given that _B_ is true.
+- _P(B|A)_ is also a conditional probability: the likelihood of event _B_ occurring given that _A_ is true.
+- _P(A)_ and _P(B)_ are the probabilities of observing _A_ and _B_ independently of each other; this is known as the marginal probability.
+
+image::https://qph.ec.quoracdn.net/main-qimg-003a7aaa0935215238a082f0412fb564[Bayes' Theorem]
+
+-
+-
+-
+-
+
 image::Bayes'{sp}Theorem.svg[Bayes' Theorem]
 
 - 数学之美番外篇：平凡而又神奇的贝叶斯方法, _http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/_
