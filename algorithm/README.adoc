@@ -11,7 +11,7 @@ https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057
 Fourier Transform
 -----------------
 
-image::Fourier{sp}Transform.gif[Fourier Transform]
+image::Fourier{sp}Transform.jpg[Fourier Transform]
 
 - 如果看了此文你还不懂傅里叶变换那就过来掐死我吧 from 伯乐在线, _http://blog.jobbole.com/70549/_
 
