@@ -44,10 +44,10 @@ _A_ and _B_ are events and _P(B)_ ≠ 0.
 
 image::https://qph.ec.quoracdn.net/main-qimg-003a7aaa0935215238a082f0412fb564[Bayes' Theorem]
 
--
--
--
--
+- _P(B|A)_ - **likelihood** How probable is the evidence given that our hypothesis is true?
+- _P(A)_ - ** Prior** How probable was our hypothesis before observing the evidence?
+- _P(B)_ - **Marginal** How probable is the new evidence under all possible hypothesis? _P(B) = Σ~i~ P(B|A~i~) P(A~i~)_
+- _P(A|B)_ - ** Posterior** How probable is our hypothesis given the observed evidence? (Not directly computable)
 
 image::Bayes'{sp}Theorem.svg[Bayes' Theorem]
 
