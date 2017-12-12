@@ -77,7 +77,7 @@ image::Simulated{sp}Annealing.gif[Simulated Annealing]
 Ant Colony Optimisation
 -----------------------
 
-image::https://camo.githubusercontent.com/2199a8a12e6e22c3fee6fb931449db0f36fff7a5/687474703a2f2f692e696d6775722e636f6d2f57536c6179356b2e676966[Visual demo of Ant Colony Optimisation")
+image::https://camo.githubusercontent.com/2199a8a12e6e22c3fee6fb931449db0f36fff7a5/687474703a2f2f692e696d6775722e636f6d2f57536c6179356b2e676966[Visual demo of Ant Colony Optimisation]
 
 
 References
