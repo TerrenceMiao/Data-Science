@@ -4,7 +4,7 @@ Algorithms
 Mind Map
 --------
 
-image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/b2fef2ccd755642aae481b471fe7510259038c3276484bd81c3b17de4bf06712/Algorithms.png?AWSAccessKeyId=ASIAJ7UI6LZAFNGSQMHA&Expires=1513057594&Signature=V4ukWO2Qmt0PbdfUC05pEf1A3Kg%3D&x-amz-security-token=FQoDYXdzEPn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDBkyerN%2FTLdHPP3s8iLxAaGVuX5AnGbEHf0iLU1yLkahSZsgG%2BXaCka4GLow7%2F%2BavWMYNNzd0OmFJ5SVSth6F%2BTdWJHlxkp8A%2BEblOtTCl2oPt9Q1F7BgI8ZOcrxknYtKiJua%2Ff10wSjnME5yvLLlJ535Nn0e1RskAQkLOykwq8rFbrwUXn3HVpWm7GpHhZHJsA9sEPxH5Jp98%2F%2ByvEr4hdHpHRS48g5gVDI2%2Fqqa%2BgpuNyxLKNLrK1WBFUSw3%2FrswRUpNG332nhVEdLdsj5J1IMHt2fdSVm9NZTQw5BZBibjIEjjK9inz6GSVPRDzhurt2N7GmxpviA2eTI4fX6dWEo46m80QU%3D[Algorithms]
+image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/0f8596a51d983804ec2f301e39845feefbdbf2555bccd0f00f062a0c5b2740c8/Algorithms.png?AWSAccessKeyId=ASIAJSWVFUXF2DAFLROQ&Expires=1513077191&Signature=NJ4jtMyKQUA7RD%2FYNlHBADaZDNo%3D&x-amz-security-token=FQoDYXdzEP3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGPYi61zdxFxGFbqZSLxAbELiTXIQEoNZjYL1tCYCaQdLScyPhntnheqfyo11ePkRW902RNCul3QapmblQENGuvxpr3KaKVegc75OZ%2BSafI9PcIA9kaV87uvK7RNdeZbhz3FGEDUc1Mt6w1YWfC0UJ558N4g8PXv4gymLMsXI0dobyAMUd2eONnID68jnFzLKSPqd%2BjphiCPwvJn85rmK%2Bx18Mw58XpMFkHkUUrGlB12WCL%2B0meiHNLW6oH0a700dHbXZu1nTcWbzFscjj2q4RxypgMi3e9ssm%2BD%2FaUyxZnCNt6tprZZ0WGa%2B%2BrjaQzFeVwBgf7BiBP1dTZ5X9ilvYgoqJq90QU%3D[Algorithms]
 
 https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057b95e497375193ce8c8088a56a70[Coggle Link]
 
@@ -77,7 +77,7 @@ image::Simulated{sp}Annealing.gif[Simulated Annealing]
 Ant Colony Optimisation
 -----------------------
 
-image::https://camo.githubusercontent.com/2199a8a12e6e22c3fee6fb931449db0f36fff7a5/687474703a2f2f692e696d6775722e636f6d2f57536c6179356b2e676966[Visual demo of Ant Colony Optimisation]
+image::Ant{sp}Colony{sp}Optimisation.gif[Visual demo of Ant Colony Optimisation]
 
 
 References
