@@ -79,6 +79,8 @@ Ant Colony Optimisation
 
 image::Ant{sp}Colony{sp}Optimisation.gif[Visual demo of Ant Colony Optimisation]
 
+- Ant Colony Optimization (ACO), _https://terrencemiao.github.io/blog/2017/06/30/Ant-Colony-Optimization-ACO/_
+
 
 References
 ----------
