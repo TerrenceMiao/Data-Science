@@ -67,6 +67,8 @@ Particle Swarm Optimisation
 
 image::Particle{sp}Swarm{sp}Optimisation.gif[Particle Swarm Optimisation]
 
+In the process of Particle Swarm Optimisation, there are two scalars: Velocity and Positions
+
 image::PSO{sp}Velocity.jpg[PSO Velocity]
 
 image::PSO{sp}Positions.jpg[PSO Positions]
