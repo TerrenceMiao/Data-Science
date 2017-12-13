@@ -4,7 +4,7 @@ Algorithms
 Mind Map
 --------
 
-image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/0f8596a51d983804ec2f301e39845feefbdbf2555bccd0f00f062a0c5b2740c8/Algorithms.png?AWSAccessKeyId=ASIAJSWVFUXF2DAFLROQ&Expires=1513077191&Signature=NJ4jtMyKQUA7RD%2FYNlHBADaZDNo%3D&x-amz-security-token=FQoDYXdzEP3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGPYi61zdxFxGFbqZSLxAbELiTXIQEoNZjYL1tCYCaQdLScyPhntnheqfyo11ePkRW902RNCul3QapmblQENGuvxpr3KaKVegc75OZ%2BSafI9PcIA9kaV87uvK7RNdeZbhz3FGEDUc1Mt6w1YWfC0UJ558N4g8PXv4gymLMsXI0dobyAMUd2eONnID68jnFzLKSPqd%2BjphiCPwvJn85rmK%2Bx18Mw58XpMFkHkUUrGlB12WCL%2B0meiHNLW6oH0a700dHbXZu1nTcWbzFscjj2q4RxypgMi3e9ssm%2BD%2FaUyxZnCNt6tprZZ0WGa%2B%2BrjaQzFeVwBgf7BiBP1dTZ5X9ilvYgoqJq90QU%3D[Algorithms]
+images::https://coggle-downloads.s3.eu-west-1.amazonaws.com/bd3f69bceb6ca41c784df239301f365522039a986c87979bc99183ecf542e19a/Algorithms.png?AWSAccessKeyId=ASIAIXLQUGHP3N44WKLQ&Expires=1513146019&Signature=q0X3O69YJfIKJvLQZfh5DMA%2Bex4%3D&x-amz-security-token=FQoDYXdzECEaDDzmucBChXu92eb74CLxASKOmQ9T9jssbJauUfm3SfCRQN6VpNu8P1r3l9fDhnXBzlL%2BJCuXsVqJlTxZTAgDIz8FslO2NcYnqMC7s1tGzQD4MGI%2Bs3CN4WZA6cX99PfnFpGf%2B48Ammtf58u9908SGbpkwGY6cYD0RHg7iVTaCnK9yIBy2WfWS%2BckMs4fX%2FsOcjntKRD3H6qzv7CGXi8X7QHqU0JCSAj%2FtlMa3ODXEcsYQBcL0t%2F961PstOjZlTPUa9LA3SU8DcsFGhm4jTXOrGJwnnzBaG98CAKIXNKNcIOaA%2Fj%2BHuDmP3cA8IlvT9sn4pAJCtGDGQUfr6Zj7fSlhwUohM3B0QU%3D[Algorithms]
 
 https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057b95e497375193ce8c8088a56a70[Coggle Link]
 
@@ -60,6 +60,18 @@ Genetic Algorithm
 image::Genetic{sp}Algorithm.jpg[Genetic Algorithm]
 
 - 遗传算法：内存中的进化, _http://songshuhui.net/archives/10462_
+
+
+Particle Swarm Optimisation
+---------------------------
+
+image::Particle{sp}Swarm{sp}Optimisation.gif[Particle Swarm Optimisation]
+
+image::PSO{sp}Velocity.jpg[PSO Velocity]
+
+image::PSO{sp}Positions.jpg[PSO Positions]
+
+image::PSO{sp}Formula.jpg[PSO Formula]
 
 
 Hill Climbing
