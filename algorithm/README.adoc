@@ -4,14 +4,13 @@ Algorithms
 Mind Map
 --------
 
-image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/729d6ebe1bdcda5fba9cfccfbf857442defd04aa07baaa13c08b4894db02977f/Algorithms.png?AWSAccessKeyId=ASIAIXLQUGHP3N44WKLQ&Expires=1513149487&Signature=cuRFYQ28jNUL0siMC815ZuBpChc%3D&x-amz-security-token=FQoDYXdzECEaDDzmucBChXu92eb74CLxASKOmQ9T9jssbJauUfm3SfCRQN6VpNu8P1r3l9fDhnXBzlL%2BJCuXsVqJlTxZTAgDIz8FslO2NcYnqMC7s1tGzQD4MGI%2Bs3CN4WZA6cX99PfnFpGf%2B48Ammtf58u9908SGbpkwGY6cYD0RHg7iVTaCnK9yIBy2WfWS%2BckMs4fX%2FsOcjntKRD3H6qzv7CGXi8X7QHqU0JCSAj%2FtlMa3ODXEcsYQBcL0t%2F961PstOjZlTPUa9LA3SU8DcsFGhm4jTXOrGJwnnzBaG98CAKIXNKNcIOaA%2Fj%2BHuDmP3cA8IlvT9sn4pAJCtGDGQUfr6Zj7fSlhwUohM3B0QU%3D[Algorithms]
+image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/ac4c42dcffa25750eb378ed5cf212a52f5e3d94b688889d5d57079511de57376/Algorithms.png?AWSAccessKeyId=ASIAISHIABLLQ2NMIEWQ&Expires=1513187426&Signature=Oveo9EgnM2ev5i5qxOYqJBlugXw%3D&x-amz-security-token=FQoDYXdzEC0aDN%2Bqh%2FOkuAXV3cMOgCLxAS0Bl791mcYpeA5xRltVy%2FlSgMA3gO6Q%2BNmUvOgxA%2FD%2BAlExCPITKcdd91f9qMH%2BRjhiYt4gu9s3WuIAKxBZVz%2FK1Q3qqkTxLUQW9%2BhiL9sgf%2BUnlNlupeXtvQ0POTNuWiJILrjmIjZGnch259uIJoT72bn1lasuORIzuJkG7e9VkiyqIzC%2FG%2Bo3hVZzWzVuqjyT3JdXpRuTfA40gJJfiN0MMrhF6%2B38d8waAsQp8IRc4hf6yb1BikjiejfegM%2BYQnc5ELd%2BYDsctlZhM6G3cyC9%2F5z3%2FJRvVOgwE8UMF5wK5akfydOgLmmSut9OErFb4i0o5J7E0QU%3D[Algorithms]
 
 https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057b95e497375193ce8c8088a56a70[Coggle Link]
 
 Content
 -------
 
-- <<Razor, Occam's Razor / Ockham's Razor>>
 - <<Fourier, Fourier Transform>>
 - <<Monte-Carlo, Monte Carlo Method>>
 - <<Bayes, Bayes' Theorem>>
@@ -21,13 +20,6 @@ Content
 - <<Annealing, Simulated Annealing>>
 - <<ACO, Ant Colony Optimisation>>
 - <<References>>
-
-
-[[Razor]]
-Occam's Razor / Ockham's Razor
-------------------------------
-
-**Entities should not be multiplied unnecessarily**, bias for the simplest hypothesis.
 
 
 [[Fourier]]
