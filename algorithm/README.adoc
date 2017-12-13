@@ -9,6 +9,8 @@ image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/e2e3d23f9393b4944e627
 https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057b95e497375193ce8c8088a56a70[Coggle Link]
 
 
+<<ACO, Ant Colony Optimisation>>
+
 Occam's Razor / Ockham's Razor
 ------------------------------
 
@@ -89,7 +91,7 @@ Simulated Annealing
 
 image::Simulated{sp}Annealing.gif[Simulated Annealing]
 
-
+[[ACO]]
 Ant Colony Optimisation
 -----------------------
 
