@@ -67,13 +67,13 @@ Particle Swarm Optimisation
 
 image::Particle{sp}Swarm{sp}Optimisation.gif[Particle Swarm Optimisation]
 
-In the process of Particle Swarm Optimisation, there are two scalars: Velocity and Positions
+In the process of Particle Swarm Optimisation, there are two scalars: Velocity and Positions (1, 2, ... D are dimension).
 
 image::PSO{sp}Velocity.jpg[PSO Velocity]
 
 image::PSO{sp}Positions.jpg[PSO Positions]
 
-_pBest^d^~i~_ be the best known position of particle _i_ and _gBest^d^_ be the best known position of the entire swarm. _w_ is weight, _c~1~_, _c~2~_ are selected by the practitioner and control the behaviour and efficacy of the PSO method. _rand~1~_, _rand~2~_ are random number between [0, 1].
+_pBest~i~^d^_ be the best known position of particle _i_ and _gBest^d^_ be the best known position of the entire swarm. _w_ is weight, _c~1~_, _c~2~_ are selected by the practitioner and control the behaviour and efficacy of the PSO method. _rand~1~^d^_, _rand~2~^d^_ are random number between [0, 1].
 
 image::PSO{sp}Formula.jpg[PSO Formula]
 
