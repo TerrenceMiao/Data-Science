@@ -48,6 +48,7 @@ Monte Carlo method
 image::Monte{sp}Carlo{sp}Method.jpg[Monte Carlo Method]
 
 - 人工智能绝不会统治人类, _http://blog.sina.com.cn/s/blog_6c7e111d0102wckj.html_
+- Monte Carlo Method visualisation, _https://codepen.io/terrencemiao/full/GygRMp/_
 
 
 [[Bayes]]
@@ -124,7 +125,5 @@ image::Ant{sp}Colony{sp}Optimisation.gif[Visual demo of Ant Colony Optimisation]
 [[References]]
 References
 ----------
-
-- 可视化蒙特卡洛算法, _http://runjs.cn/detail/rrnvnqyt_
 
 - Naughty's blog, _https://my.oschina.net/taogang_
