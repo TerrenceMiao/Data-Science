@@ -8,15 +8,29 @@ image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/e2e3d23f9393b4944e627
 
 https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057b95e497375193ce8c8088a56a70[Coggle Link]
 
+Content
+-------
 
+<<Razor, Occam's Razor / Ockham's Razor>>
+<<Fourier, Fourier Transform>>
+<<Monte-Carlo, Monte Carlo Method>>
+<<Bayes, Bayes' Theorem>>
+<<Genetic, Genetic Algorithm>>
+<<PSO, Particle Swarm Optimisation>>
+<<Hill, Hill Climbing>>
+<<Annealing, Simulated Annealing>>
 <<ACO, Ant Colony Optimisation>>
+<<References>>
 
+
+[[Razor]]
 Occam's Razor / Ockham's Razor
 ------------------------------
 
 **Entities should not be multiplied unnecessarily**, bias for the simplest hypothesis.
 
 
+[[Fourier]]
 Fourier Transform
 -----------------
 
@@ -25,6 +39,7 @@ image::Fourier{sp}Transform.jpg[Fourier Transform]
 - 如果看了此文你还不懂傅里叶变换那就过来掐死我吧 from 伯乐在线, _http://blog.jobbole.com/70549/_
 
 
+[[Monte-Carlo]]
 Monte Carlo method
 ------------------
 
@@ -35,6 +50,7 @@ image::Monte{sp}Carlo{sp}Method.jpg[Monte Carlo Method]
 - 人工智能绝不会统治人类, _http://blog.sina.com.cn/s/blog_6c7e111d0102wckj.html_
 
 
+[[Bayes]]
 Bayes' Theorem
 --------------
 
@@ -56,6 +72,7 @@ image::Bayes'{sp}Theorem.svg[Bayes' Theorem]
 - 数学之美番外篇：平凡而又神奇的贝叶斯方法, _http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/_
 
 
+[[Genetic]]
 Genetic Algorithm
 -----------------
 
@@ -64,6 +81,7 @@ image::Genetic{sp}Algorithm.jpg[Genetic Algorithm]
 - 遗传算法：内存中的进化, _http://songshuhui.net/archives/10462_
 
 
+[[PSO]]
 Particle Swarm Optimisation
 ---------------------------
 
@@ -80,16 +98,19 @@ _pBest~i~^d^_ be the best known position of particle _i_ and _gBest^d^_ be the b
 image::PSO{sp}Formula.jpg[PSO Formula]
 
 
+[[Hill]]
 Hill Climbing
 -------------
 
 image::Hill{sp}Climbing.png[Hill Climbing]
 
 
+[[Annealing]]
 Simulated Annealing
 -------------------
 
 image::Simulated{sp}Annealing.gif[Simulated Annealing]
+
 
 [[ACO]]
 Ant Colony Optimisation
@@ -100,6 +121,7 @@ image::Ant{sp}Colony{sp}Optimisation.gif[Visual demo of Ant Colony Optimisation]
 - Ant Colony Optimization (ACO), _https://terrencemiao.github.io/blog/2017/06/30/Ant-Colony-Optimization-ACO/_
 
 
+[[References]]
 References
 ----------
 
