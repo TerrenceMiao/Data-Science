@@ -11,16 +11,16 @@ https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057
 Content
 -------
 
-<<Razor, Occam's Razor / Ockham's Razor>>
-<<Fourier, Fourier Transform>>
-<<Monte-Carlo, Monte Carlo Method>>
-<<Bayes, Bayes' Theorem>>
-<<Genetic, Genetic Algorithm>>
-<<PSO, Particle Swarm Optimisation>>
-<<Hill, Hill Climbing>>
-<<Annealing, Simulated Annealing>>
-<<ACO, Ant Colony Optimisation>>
-<<References>>
+- <<Razor, Occam's Razor / Ockham's Razor>>
+- <<Fourier, Fourier Transform>>
+- <<Monte-Carlo, Monte Carlo Method>>
+- <<Bayes, Bayes' Theorem>>
+- <<Genetic, Genetic Algorithm>>
+- <<PSO, Particle Swarm Optimisation>>
+- <<Hill, Hill Climbing>>
+- <<Annealing, Simulated Annealing>>
+- <<ACO, Ant Colony Optimisation>>
+- <<References>>
 
 
 [[Razor]]
