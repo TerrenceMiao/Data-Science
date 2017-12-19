@@ -8,16 +8,19 @@ image::https://coggle-downloads.s3.eu-west-1.amazonaws.com/ac4c42dcffa25750eb378
 
 https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057b95e497375193ce8c8088a56a70[Coggle Link]
 
-Content
--------
+Table of contents
+-----------------
 
 - <<Fourier, Fourier Transform>>
+- <<FDM, Finite Difference Method>>
+- <<FEM, Finite Element Method>>
+- <<FVM, Finite Volume Method>>
 - <<Monte-Carlo, Monte Carlo Method>>
 - <<Bayes, Bayes' Theorem>>
-- <<Genetic, Genetic Algorithm>>
-- <<PSO, Particle Swarm Optimisation>>
 - <<Hill, Hill Climbing>>
 - <<Annealing, Simulated Annealing>>
+- <<Genetic, Genetic Algorithm>>
+- <<PSO, Particle Swarm Optimisation>>
 - <<ACO, Ant Colony Optimisation>>
 - <<References>>
 
@@ -26,16 +29,43 @@ Content
 Fourier Transform
 -----------------
 
+解偏微分方程。微分次数越高越好。
+
 image::Fourier{sp}Transform.jpg[Fourier Transform]
 
 - 如果看了此文你还不懂傅里叶变换那就过来掐死我吧 from 伯乐在线, _http://blog.jobbole.com/70549/_
+
+
+[[FDM]]
+Finite Difference Method
+------------------------
+
+简单粗暴，应用最广，解偏微分方程。
+
+image::Finite{sp}Difference{sp}Method.svg[Finite Difference Method]
+
+
+[[FEM]]
+Finite Element Method
+---------------------
+
+解不光滑，几何边界复杂的偏微分方程。
+
+image::Finite{sp}Element{sp}Method.jpg[Finite Element Method]
+
+
+[[FVM]]
+Finite Volume Method
+--------------------
+
+image::Finite{sp}Volume{sp}Method.jpg[Finite Volume Method]
 
 
 [[Monte-Carlo]]
 Monte Carlo method
 ------------------
 
-把所有复杂问题都转化为基于随机数和各种分布的简单算术问题，这就是蒙特卡洛算法的精髓。
+把所有复杂问题都转化为基于随机数和各种分布的简单算术问题，这就是蒙特卡洛算法的精髓。比如模拟分子的运动，能表现出分子数量大，随机性强的特点。
 
 image::Monte{sp}Carlo{sp}Method.jpg[Monte Carlo Method]
 
@@ -64,10 +94,29 @@ image::Bayes'{sp}Theorem.svg[Bayes' Theorem]
 
 - 数学之美番外篇：平凡而又神奇的贝叶斯方法, _http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/_
 
+[[Hill]]
+Hill Climbing
+-------------
+
+优化目标函数。收敛速度快，容易陷入局部最优解。
+
+image::Hill{sp}Climbing.png[Hill Climbing]
+
+
+[[Annealing]]
+Simulated Annealing
+-------------------
+
+优化目标函数。牺牲速度，加入随机项以避免局部最优解。
+
+image::Simulated{sp}Annealing.gif[Simulated Annealing]
+
 
 [[Genetic]]
 Genetic Algorithm
 -----------------
+
+优化目标函数。智能性高，速度慢。
 
 image::Genetic{sp}Algorithm.jpg[Genetic Algorithm]
 
@@ -89,20 +138,6 @@ image::PSO{sp}Positions.jpg[PSO Positions]
 _pBest~i~^d^_ be the best known position of particle _i_ and _gBest^d^_ be the best known position of the entire swarm. _w_ is weight, _c~1~_, _c~2~_ are selected by the practitioner and control the behaviour and efficacy of the PSO method. _rand~1~^d^_, _rand~2~^d^_ are random number between [0, 1].
 
 image::PSO{sp}Formula.jpg[PSO Formula]
-
-
-[[Hill]]
-Hill Climbing
--------------
-
-image::Hill{sp}Climbing.png[Hill Climbing]
-
-
-[[Annealing]]
-Simulated Annealing
--------------------
-
-image::Simulated{sp}Annealing.gif[Simulated Annealing]
 
 
 [[ACO]]
