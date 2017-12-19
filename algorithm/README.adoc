@@ -11,15 +11,20 @@ https://coggle.it/diagram/Wi5oYCue3QABUTIE/f776afc45f1043295ceb134e56c2d2f60d057
 Table of contents
 -----------------
 
-- <<Fourier, Fourier Transform>>
-- <<FDM, Finite Difference Method>>
-- <<FEM, Finite Element Method>>
-- <<FVM, Finite Volume Method>>
-- <<Monte-Carlo, Monte Carlo Method>>
-- <<Bayes, Bayes' Theorem>>
-- <<Hill, Hill Climbing>>
-- <<Annealing, Simulated Annealing>>
-- <<Genetic, Genetic Algorithm>>
+- Partial Differential Equation
+  - <<Fourier, Fourier Transform>>
+  - Finite Methods
+    - <<FDM, Finite Difference Method>>
+    - <<FEM, Finite Element Method>>
+    - <<FVM, Finite Volume Method>>
+- Random Sampling
+  - <<Monte-Carlo, Monte Carlo Method>>
+- Probability Theory and Statistics
+  - <<Bayes, Bayes' Theorem>>
+- Target Optimisation
+  - <<Hill, Hill Climbing>>
+  - <<Annealing, Simulated Annealing>>
+  - <<Genetic, Genetic Algorithm>>
 - <<PSO, Particle Swarm Optimisation>>
 - <<ACO, Ant Colony Optimisation>>
 - <<References>>
