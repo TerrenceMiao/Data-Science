@@ -1,7 +1,7 @@
 Machine Learning
 ================
 
-**The mathematical fundamental of Machine Learning is Operations Research, employing techniques such as mathematical modeling, statistical analysis and mathematical optimisation to find out optimal and near-optimal solutions to complex decision-making problems.**
+The mathematical fundamental of Machine Learning is Operations Research, employing techniques such as mathematical modeling, statistical analysis and mathematical optimisation to find out optimal and near-optimal solutions to complex decision-making problems.
 
 Mind Map
 --------
