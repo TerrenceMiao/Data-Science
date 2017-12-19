@@ -12,19 +12,19 @@ Table of contents
 -----------------
 
 - Partial Differential Equation
-  - <<Fourier, Fourier Transform>>
-  - Finite Methods
-    - <<FDM, Finite Difference Method>>
-    - <<FEM, Finite Element Method>>
-    - <<FVM, Finite Volume Method>>
+  * <<Fourier, Fourier Transform>>
+  * Finite Methods
+    ** <<FDM, Finite Difference Method>>
+    ** <<FEM, Finite Element Method>>
+    ** <<FVM, Finite Volume Method>>
 - Random Sampling
-  - <<Monte-Carlo, Monte Carlo Method>>
+  * <<Monte-Carlo, Monte Carlo Method>>
 - Probability Theory and Statistics
-  - <<Bayes, Bayes' Theorem>>
+  * <<Bayes, Bayes' Theorem>>
 - Target Optimisation
-  - <<Hill, Hill Climbing>>
-  - <<Annealing, Simulated Annealing>>
-  - <<Genetic, Genetic Algorithm>>
+  * <<Hill, Hill Climbing>>
+  * <<Annealing, Simulated Annealing>>
+  * <<Genetic, Genetic Algorithm>>
 - <<PSO, Particle Swarm Optimisation>>
 - <<ACO, Ant Colony Optimisation>>
 - <<References>>
