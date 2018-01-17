@@ -26,7 +26,7 @@ image::Convolutional{sp}Neural{sp}Network{sp}Nomenclature.png[Convolutional Neur
 Summary of Notation in Machine Learning
 ---------------------------------------
 
-image::Notation.png[Notation]
+image::/Notation.png[Notation]
 
 image::Summary{sp}of{sp}Notation.png[Summary of Notation]
 
