@@ -27,6 +27,7 @@ Table of contents
   * <<Genetic, Genetic Algorithm>>
 - <<PSO, Particle Swarm Optimisation>>
 - <<ACO, Ant Colony Optimisation>>
+- <<Dijkstra>>
 - <<References>>
 
 
@@ -152,6 +153,18 @@ Ant Colony Optimisation
 image::Ant{sp}Colony{sp}Optimisation.gif[Visual demo of Ant Colony Optimisation]
 
 - Ant Colony Optimization (ACO), _https://terrencemiao.github.io/blog/2017/06/30/Ant-Colony-Optimization-ACO/_
+
+
+[[Dijkstra]]
+Dijkstra
+--------
+
+....
+    if dis[k] + d(k,u) < dis[u]:
+        dis[u] = dis[k] + d(k,u)
+....
+
+image::Dijkstra.jpg[Dijkstra]
 
 
 [[References]]
