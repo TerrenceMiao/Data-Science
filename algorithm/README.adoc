@@ -166,6 +166,8 @@ Dijkstra
 
 image::Dijkstra.jpg[Dijkstra]
 
+From a dynamic programming point of view, Dijkstra's algorithm is a successive approximation scheme that solves the dynamic programming functional equation for the shortest path problem by the Reaching method.
+
 
 [[References]]
 References
