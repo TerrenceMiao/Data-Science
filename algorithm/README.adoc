@@ -27,7 +27,9 @@ Table of contents
   * <<Genetic, Genetic Algorithm>>
 - <<PSO, Particle Swarm Optimisation>>
 - <<ACO, Ant Colony Optimisation>>
-- <<Dijkstra>>
+- <<Dijkstra, Dijkstra>>
+- Iterative Optimisation
+  * <<GD, Gradient Descent>>
 - <<References>>
 
 
@@ -167,6 +169,13 @@ Dijkstra
 image::Dijkstra.jpg[Dijkstra]
 
 From a dynamic programming point of view, Dijkstra's algorithm is a successive approximation scheme that solves the dynamic programming functional equation for the shortest path problem by the Reaching method.
+
+
+[[GD]]
+Gradient Descent
+----------------
+
+image::Gradient Descent.gif[Gradient Descent]
 
 
 [[References]]
