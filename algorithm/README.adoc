@@ -183,3 +183,4 @@ References
 ----------
 
 - Naughty's blog, _https://my.oschina.net/taogang_
+- Five Most Popular Similarity Measures implementation in Python, _http://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/_
