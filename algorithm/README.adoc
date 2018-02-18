@@ -30,6 +30,12 @@ Table of contents
 - <<Dijkstra, Dijkstra>>
 - Iterative Optimisation
   * <<GD, Gradient Descent>>
+- Cluster Analysis
+  * <<K-Means, K-Means Clustering>>
+  * <<Mean-Shift, Mean-Shift Clustering>>
+  * <<DBSCAN, DBSCAN>>
+  * <<EM, EM Clustering>>
+  * <<Agglomerative-Hierarchical, Agglomerative Hierarchical Clustering>>
 - <<References>>
 
 
@@ -176,6 +182,44 @@ Gradient Descent
 ----------------
 
 image::Gradient Descent.gif[Gradient Descent]
+
+
+[[K-Means]]
+K-Means Clustering
+------------------
+
+image::K-Means{sp}Clustering.gif[K-Means Clustering]
+
+
+[[Mean-Shift]]
+Mean-Shift Clustering
+---------------------
+
+image::Mean-Shift{sp}Clustering{sp}I.gif[Mean-Shift Clustering]
+image::Mean-Shift{sp}Clustering{sp}II.gif[Mean-Shift Clustering]
+
+
+[[DBSCAN]]
+DBSCAN
+------
+
+Density Based Spatial Clustering of Applications with Noise (DBSCAN)
+
+image::DBSCAN.gif[DBSCAN]
+
+
+[[EM]]
+EM Clustering
+-------------
+
+image::EM{sp}Clustering{sp}using{sp}GMMs.gif[EM Clustering]
+
+
+[[Agglomerative-Hierarchical]]
+Agglomerative Hierarchical Clustering
+-------------------------------------
+
+image::Agglomerative{sp}Hierarchical{sp}Clustering.gif[Agglomerative Hierarchical Clustering]
 
 
 [[References]]
