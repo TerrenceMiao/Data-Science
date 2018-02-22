@@ -190,6 +190,8 @@ K-Means Clustering
 
 image::K-Means{sp}Clustering.gif[K-Means Clustering]
 
+K-Means have very few computations. It thus has a linear complexity O(n). K-Median use the median vector of the group, and is less sensitive to outliers (because of using the Median) but is much slower for larger datasets as sorting is required on each iteration.
+
 
 [[Mean-Shift]]
 Mean-Shift Clustering
@@ -198,14 +200,18 @@ Mean-Shift Clustering
 image::Mean-Shift{sp}Clustering{sp}I.gif[Mean-Shift Clustering]
 image::Mean-Shift{sp}Clustering{sp}II.gif[Mean-Shift Clustering]
 
+Mean-Shift Clustering is a centroid-based, sliding-window-based algorithm that attempts to find dense areas of data points. At every iteration the sliding window is shifted towards regions of higher density by shifting the center point to the mean of the points within the window.
+
 
 [[DBSCAN]]
 DBSCAN
 ------
 
-Density Based Spatial Clustering of Applications with Noise (DBSCAN)
+Density Based Spatial Clustering of Applications with Noise (DBSCAN), is a density based clustered algorithm. It does not require a per-set number of clusters at all. It also identifies outliers as noises. It is able to find arbitrarily sized and arbitrarily shaped clusters quite well.
 
 image::DBSCAN.gif[DBSCAN]
+
+Source: _https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/_
 
 
 [[EM]]
@@ -228,3 +234,4 @@ References
 
 - Naughty's blog, _https://my.oschina.net/taogang_
 - Five Most Popular Similarity Measures implementation in Python, _http://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/_
+- The 5 Clustering Algorithms Data Scientists Need to Know, _https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68_
