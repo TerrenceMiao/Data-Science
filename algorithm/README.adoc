@@ -220,12 +220,18 @@ EM Clustering
 
 image::EM{sp}Clustering{sp}using{sp}GMMs.gif[EM Clustering]
 
+Expectation Maximization (EM) Clustering using Gaussian Mixture Models (GMM) are a lot more flexible in terms of cluster covariance than K-Means Clustering. Since GMMs use probabilities, they can have multiple clusters per data point.
+
 
 [[Agglomerative-Hierarchical]]
 Agglomerative Hierarchical Clustering
 -------------------------------------
 
 image::Agglomerative{sp}Hierarchical{sp}Clustering.gif[Agglomerative Hierarchical Clustering]
+
+Hierarchical clustering algorithms actually fall into 2 categories: top-down or bottom-up.
+
+Bottom-up algorithms treat each data point as a single cluster at the outset and then successively merge (or agglomerate) pairs of clusters until all clusters have been merged into a single cluster that contains all data points. Bottom-up hierarchical clustering is therefore called hierarchical agglomerative clustering or HAC.
 
 
 [[References]]
