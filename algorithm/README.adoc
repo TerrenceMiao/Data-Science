@@ -192,6 +192,10 @@ image::K-Means{sp}Clustering.gif[K-Means Clustering]
 
 K-Means have very few computations. It thus has a linear complexity O(n). K-Median use the median vector of the group, and is less sensitive to outliers (because of using the Median) but is much slower for larger datasets as sorting is required on each iteration.
 
+image::K-Means{sp}Clustering.png[K-Means Clustering]
+
+Source: _https://www.naftaliharris.com/blog/visualizing-k-means-clustering/_
+
 
 [[Mean-Shift]]
 Mean-Shift Clustering
