@@ -246,3 +246,5 @@ References
 - Five Most Popular Similarity Measures implementation in Python, _http://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/_
 - The 5 Clustering Algorithms Data Scientists Need to Know, _https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68_
 - scikit-learn clustering methods overview, _http://scikit-learn.org/stable/modules/clustering.html_
+
+image::Clustering{sp}Algorithms{sp}Comparison.png[A comparison of the Clustering Algorithms in scikit-learn]
