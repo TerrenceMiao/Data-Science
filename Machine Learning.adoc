@@ -53,6 +53,7 @@ MindMap::
 * Neural Network Architectures, _https://towardsdatascience.com/neural-network-architectures-156e5bad51ba_
 * 几种 CNN 网络结构及其资源使用, _http://blog.csdn.net/fdchao/article/details/52915716_
 * Emergent Mind - visual demo of emergence, evolution and artificial life, _http://www.emergentmind.com/_
+* An overview of gradient descent optimization algorithms, _http://ruder.io/optimizing-gradient-descent/_
 
 Future::
 * Dynamic Routing Between Capsules, _https://arxiv.org/pdf/1710.09829v2.pdf_
