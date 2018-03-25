@@ -48,6 +48,7 @@ Tutorial::
 * Feed Forward and Backward Run in Deep Convolution Neural Network, _https://arxiv.org/pdf/1711.03278.pdf_
 * Getting ya music recommendation groove on with google cloud platform, _https://shinesolutions.com/2017/12/15/getting-ya-music-recommendation-groove-on-with-google-cloud-platform/_, _https://shinesolutions.com/2018/01/24/getting-ya-music-recommendation-groove-on-with-google-cloud-platform-part-2/_
 * Learning AI if You Suck at Math (Part 7) - The Magic of Natural Language Processing, _https://hackernoon.com/learning-ai-if-you-suck-at-math-p7-the-magic-of-natural-language-processing-f3819a689386_
+* The Unreasonable Effectiveness of Recurrent Neural Networks, _http://karpathy.github.io/2015/05/21/rnn-effectiveness/_
 
 MindMap::
 * Jose R. Gorchs's Machine Learning A-Z Python MindMap, _http://image.ibb.co/jYaViR/Jose_Gorchs_Machine_Learning_A_Z.png_
