@@ -51,6 +51,7 @@ Tutorial::
 * The Unreasonable Effectiveness of Recurrent Neural Networks, _http://karpathy.github.io/2015/05/21/rnn-effectiveness/_
 * Soft & hard attention, _https://jhui.github.io/2017/03/15/Soft-and-hard-attention/_
 * Attention and Memory in Deep Learning and NLP, _http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/_
+* ATTENTION MECHANISM, _https://blog.heuritech.com/2016/01/20/attention-mechanism/_
 
 MindMap::
 * Jose R. Gorchs's Machine Learning A-Z Python MindMap, _http://image.ibb.co/jYaViR/Jose_Gorchs_Machine_Learning_A_Z.png_
